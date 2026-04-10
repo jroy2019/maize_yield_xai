@@ -14,7 +14,7 @@ Repo includes:
 
 ## Environment
 
-add singularity info
+HPC (Pawsey). 
 
 ---
 
