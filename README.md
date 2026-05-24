@@ -14,7 +14,7 @@ Repo includes:
 
 ## Environment
 
-HPC (Pawsey). 
+HPC (Pawsey)
 
 ---
 
